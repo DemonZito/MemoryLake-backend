@@ -1,6 +1,4 @@
-package com.example.demo.student;
-
-import jdk.jfr.Enabled;
+package com.example.memorylake.student;
 
 import javax.persistence.*;
 import java.time.LocalDate;
